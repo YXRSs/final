@@ -1,2 +1,3 @@
 hi this is a test///and this is in the master branch
+make some changes in b1 branch
 another change in b2
